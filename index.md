@@ -20,3 +20,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
 My first milestone was getting my wiring set up for the motor driver and motors, and the ultrasonic sensor. I also wanted to test the range of the ultrasonic sensor and calibrate it properly. Lastly, I completed the assembly of the chassis of the car as well. I got my ultrasonic sensor wire to the arduino and test it properly with a set of code. Afterwards, I assembled the chassis of the car and put the motors on the wheels. Then, I moved onto to the DC motors and the motor driver. I hooked up the motors to the motor driver and tested the motors going both forwards and backwards. Now I felt confident with the parts that I had, and was ready to move on.
 [![Saagnik's First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624637713/video_to_markdown/images/youtube--c-zeE-uog2Q-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/c-zeE-uog2Q "Saagnik's First Milestone"){:target="_blank" rel="noopener"}
+
+![Ultrasonic Sensor Circuit Image](https://cdn.discordapp.com/attachments/807072542095441940/858024902699515944/unknown.png)
