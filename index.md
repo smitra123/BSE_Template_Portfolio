@@ -28,6 +28,7 @@ My first milestone was getting my wiring set up for the motor driver and motors,
 <font color="#00979c">const</font> <font color="#00979c">int</font> <font color="#000000">echoPin</font> <font color="#434f54">=</font> <font color="#000000">13</font><font color="#000000">;</font>
 <font color="#00979c">long</font> <font color="#000000">duration</font><font color="#000000">;</font>
 <font color="#00979c">int</font> <font color="#000000">distance</font><font color="#000000">;</font>
+
 <font color="#00979c">void</font> <font color="#5e6d03">setup</font><font color="#000000">(</font><font color="#000000">)</font> <font color="#000000">{</font>
  &nbsp;<font color="#d35400">pinMode</font><font color="#000000">(</font><font color="#000000">trigPin</font><font color="#434f54">,</font> <font color="#00979c">OUTPUT</font><font color="#000000">)</font><font color="#000000">;</font>
  &nbsp;<font color="#d35400">pinMode</font><font color="#000000">(</font><font color="#000000">echoPin</font><font color="#434f54">,</font><font color="#00979c">INPUT</font><font color="#000000">)</font><font color="#000000">;</font>
