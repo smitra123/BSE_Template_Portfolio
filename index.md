@@ -15,7 +15,7 @@ still in progress
 # Second Milestone
 still in progress
 
-[![Third Milestone](https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif)
+[![Saagnik's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625068198/video_to_markdown/images/youtube--wL2sqCYj9jg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wL2sqCYj9jg "Saagnik's Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
 My first milestone was getting my wiring set up for the motor driver and motors, and the ultrasonic sensor. I also wanted to test the range of the ultrasonic sensor and calibrate it properly. Lastly, I completed the assembly of the chassis of the car as well. I got my ultrasonic sensor wire to the arduino and test it properly with a set of code. Afterwards, I assembled the chassis of the car and put the motors on the wheels. Then, I moved onto to the DC motors and the motor driver. I hooked up the motors to the motor driver and tested the motors going both forwards and backwards. Now I felt confident with the parts that I had, and was ready to move on.
