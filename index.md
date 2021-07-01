@@ -5,7 +5,7 @@ This project uses an arduino to control a floor cleaning a robot. It utilizes an
 |:--:|:--:|:--:|:--:|
 | Saagnik M | Amador Valley Highschool | Mechanical Engineering | Incoming Junior
 
-![Headstone Image](https://www.mominthecity.com/wp-content/uploads/2018/11/IMG_5320.jpg)
+![Headstone Image](https://cdn.discordapp.com/attachments/807072542095441940/860222212652269638/unknown.png)
   
 # Final Milestone
 still in progress
