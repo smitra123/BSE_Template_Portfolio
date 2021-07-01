@@ -13,7 +13,7 @@ still in progress
 [![Final Milestone](https://media1.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif)
 
 # Second Milestone
-still in progress
+My second milestone was the completion of the base project without any mods. This included tying in the ultrasonic sensor, motors, motordriver, and the obstacle avoidance code together.The glueing down of the battery and establishing of the arduino and motor driver on the chassis was also included. Finally, I also attached the desktop vacuum to the robot by sticking it underneath a breadboard. Tying everything together and anchoring it with the code, the arduino-based floor cleaning robot was ready to go and was completed. Looking towards the next milestone, I am thinking of adding some modifications in the future.
 
 [![Saagnik's Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625068198/video_to_markdown/images/youtube--wL2sqCYj9jg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wL2sqCYj9jg "Saagnik's Second Milestone"){:target="_blank" rel="noopener"}
 
