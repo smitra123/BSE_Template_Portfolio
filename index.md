@@ -8,6 +8,7 @@ This project uses an arduino to control a floor cleaning a robot. It utilizes an
 ![Headstone Image](https://cdn.discordapp.com/attachments/807072542095441940/860222212652269638/unknown.png)
   
 # Final Milestone
+The third and final milestone was just about my modification. I wanted to create a sort of chime after a certain amount of time to let the user know that the robot's cleaning job was over with. I did the by adding a buzzer, and using the millis function which allowed me to keep track of time. In this case I made the chime the Mario theme and it played after a certain amount of time.
 
 [![Saagnik's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625241372/video_to_markdown/images/youtube--0ozzSzQWXgQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0ozzSzQWXgQ "Saagnik's Final Milestone"){:target="_blank" rel="noopener"}
 
