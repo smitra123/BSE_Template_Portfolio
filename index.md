@@ -9,8 +9,10 @@ This project uses an arduino to control a floor cleaning a robot. It utilizes an
 
 # Final Presentation
 
-
 [![Saagnik's Final Presentation](https://res.cloudinary.com/marcomontalbano/image/upload/v1625243592/video_to_markdown/images/youtube--i0kgQgX-1yc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=i0kgQgX-1yc&t=70s "Saagnik's Final Presentation"){:target="_blank" rel="noopener"}
+
+# Reflection
+After 3 weeks at Bluestamp Engineering, I can say that I've learned a lot. Coming into the program, I had little experience with Arduino and the electrical aspect of things. After working hard throughout the course of the program I have learned a lot about these. I have gained an understanding  about problem solving, and working through bugs. Problems such as working through the obstacle avoidance and attaching the vacuum were quite daunting at first, but with time and thinking the solutions were found. Ultimately, my experience at Bluestamp Engineering was very fruitfl and exciting. I think I gained a lot of wisdom and I it definitely fueled the passion to keep diving into mechanical engineering.
   
 # Final Milestone
 The third and final milestone was just about my modification. I wanted to create a sort of chime after a certain amount of time to let the user know that the robot's cleaning job was over with. I did the by adding a buzzer, and using the millis function which allowed me to keep track of time. In this case I made the chime the Mario theme and it played after a certain amount of time.
