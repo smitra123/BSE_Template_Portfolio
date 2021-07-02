@@ -10,7 +10,7 @@ This project uses an arduino to control a floor cleaning a robot. It utilizes an
 # Final Milestone
 still in progress
 
-[![Final Milestone]([![Saagnik's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625241372/video_to_markdown/images/youtube--0ozzSzQWXgQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0ozzSzQWXgQ "Saagnik's Final Milestone"){:target="_blank" rel="noopener"}
+[![Saagnik's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625241372/video_to_markdown/images/youtube--0ozzSzQWXgQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0ozzSzQWXgQ "Saagnik's Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was the completion of the base project without any mods. This included tying in the ultrasonic sensor, motors, motordriver, and the obstacle avoidance code together.The glueing down of the battery and establishing of the arduino and motor driver on the chassis was also included. Finally, I also attached the desktop vacuum to the robot by sticking it underneath a breadboard. Tying everything together and anchoring it with the code, the arduino-based floor cleaning robot was ready to go and was completed. Looking towards the next milestone, I am thinking of adding some modifications in the future.
