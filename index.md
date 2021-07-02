@@ -17,6 +17,8 @@ After 3 weeks at Bluestamp Engineering, I can say that I've learned a lot. Comin
 # Final Milestone
 The third and final milestone was just about my modification. I wanted to create a sort of chime after a certain amount of time to let the user know that the robot's cleaning job was over with. I did the by adding a buzzer, and using the millis function which allowed me to keep track of time. In this case I made the chime the Mario theme and it played after a certain amount of time.
 
+[![Saagnik's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625241372/video_to_markdown/images/youtube--0ozzSzQWXgQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0ozzSzQWXgQ "Saagnik's Final Milestone"){:target="_blank" rel="noopener"}
+
 # Final Code
 <pre>
 <font color="#5e6d03">#include</font> <font color="#005c5f">&#34;pitches.h&#34;</font>
@@ -250,8 +252,6 @@ The third and final milestone was just about my modification. I wanted to create
 <font color="#000000">}</font>
 
 </pre>
-
-[![Saagnik's Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1625241372/video_to_markdown/images/youtube--0ozzSzQWXgQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0ozzSzQWXgQ "Saagnik's Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
 My second milestone was the completion of the base project without any mods. This included tying in the ultrasonic sensor, motors, motordriver, and the obstacle avoidance code together.The glueing down of the battery and establishing of the arduino and motor driver on the chassis was also included. Finally, I also attached the desktop vacuum to the robot by sticking it underneath a breadboard. Tying everything together and anchoring it with the code, the arduino-based floor cleaning robot was ready to go and was completed. Looking towards the next milestone, I am thinking of adding some modifications in the future.
